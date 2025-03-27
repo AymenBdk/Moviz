@@ -13,17 +13,26 @@ body {
   flex-direction: column;
 }
 
+<<<<<<< HEAD
 
 /* Header and Navigation */
 header {
   width: 100%;
+=======
+/* Header and Navigation */
+header {
+>>>>>>> fb03957da1eeaf6e6a80e7174b0de5832a3717e9
   padding: 1rem 0;
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 .logo{
+<<<<<<< HEAD
   width: 100px;
   height: 100px;
+=======
+  width: 80px;
+>>>>>>> fb03957da1eeaf6e6a80e7174b0de5832a3717e9
 }
 
 nav {
@@ -33,7 +42,10 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 0 1rem;
+<<<<<<< HEAD
   
+=======
+>>>>>>> fb03957da1eeaf6e6a80e7174b0de5832a3717e9
 }
 
 .nav-links {
@@ -66,7 +78,10 @@ main {
   padding: 0 1rem;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fb03957da1eeaf6e6a80e7174b0de5832a3717e9
 /* Footer */
 footer {
   background-color: #34495e;
@@ -74,7 +89,10 @@ footer {
   text-align: center;
   padding: 1rem;
   margin-top: auto;
+<<<<<<< HEAD
 
+=======
+>>>>>>> fb03957da1eeaf6e6a80e7174b0de5832a3717e9
 }
 
 /* Forms */
